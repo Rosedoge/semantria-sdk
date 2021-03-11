@@ -16,7 +16,7 @@ First, clone or download the SDK from https://github.com/Semantria/semantria-sdk
 
 Change directory into the Python directory. Then install the SDK:
 
-    $ python setup.py
+    $ python setup.py install
 
 ### Testing
 
